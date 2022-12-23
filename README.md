@@ -1,0 +1,1 @@
+# MacroserviceStore_Dotnet
